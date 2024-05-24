@@ -5,7 +5,7 @@
 # Collected Works of Warren S. McCulloch
 This repository contains selected chapters and photographs from the _Collected Works of Warren S. McCulloch_.
 
-Most of McCulloch’s works can be found elsewhere on the internet, but interspersed in the _Collected Works of Warren S. McCulloch_ are reflections and anecdotes about McCulloch written by his friends that are not available. There are supposedly about only 300 copies of the _Collected Works of Warren S. McCulloch_, so these chapters can be hard to find.
+Most of McCulloch’s works can be found elsewhere on the internet, but interspersed in the _Collected Works of Warren S. McCulloch_ are reflections and anecdotes about McCulloch written by his friends that are not available elsewhere. There are supposedly only about 300 copies of the _Collected Works of Warren S. McCulloch_, so these chapters can be hard to find.
 
 ## Who was Warren S. McCulloch?
 __Short Answer__: McCulloch and Walter Pitts authored the famous “[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://doi.org/10.1007/BF02478259)” that directly inspired the fields of [automata theory](https://doi.org/10.1515/9781400882618) and [neural networks](https://doi.org/10.1037/h0042519).

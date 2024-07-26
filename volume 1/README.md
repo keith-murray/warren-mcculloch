@@ -8,7 +8,7 @@ Contents:
 - (2) Jerome Y. Lettvin: Strychnine Neuronography
 - (24) Henk van der Tweel: A Center Around One Person
 - (25) A. Verveen: A Personal Account
-- (30) Jerome Y. Lettvin: Warren as a Teach
+- (30) Jerome Y. Lettvin: Warren as a Teacher
 - (31) Manuel Blum: Notes on McCulloch-Pitts'
 - - _A Logical Calculus of the Ideas Immanent in Nervous Activity_
 - (32) Michael Arbib: Comments on McCulloch-Pitts'

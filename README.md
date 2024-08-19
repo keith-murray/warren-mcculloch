@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ktmurray1999/warren-s-mcculloch/blob/main/extra/title_collage.png" alt="Collage of volume covers" width="400"></img>
+<img src="https://github.com/keith-murray/warren-s-mcculloch/blob/main/extra/title_collage.png" alt="Collage of volume covers" width="400"></img>
 </div>
 
 # Collected Works of Warren S. McCulloch
@@ -10,7 +10,7 @@ Most of McCulloch’s works can be found [elsewhere on the internet](https://eco
 ## Who was Warren S. McCulloch?
 __Short Answer__: McCulloch, along with Walter Pitts, authored the famous “[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://doi.org/10.1007/BF02478259)” paper that directly inspired the fields of [automata theory](https://doi.org/10.1515/9781400882618) and [artificial intelligence](https://doi.org/10.1037/h0042519).
 
-__Long Answer__: McCulloch’s friends thoughtfully describe the type of person he was in the chapters included in this repository. I’d recommend reading the [Introduction to Volume 1](https://github.com/ktmurray1999/warren-s-mcculloch/blob/main/volume%201/introduction_Jerome_Y_Lettvin.pdf) and [Chapter 56 of Volume 2](https://github.com/ktmurray1999/warren-s-mcculloch/blob/main/volume%202/56_Jerome_Y_Lettvin.pdf), both written by Jerome Y. Lettvin, to get a sense of how McCulloch’s friends viewed him. I also recommend reading McCulloch’s book [_Embodiments of Mind_](https://mitpress.mit.edu/9780262529617/embodiments-of-mind/) for an introduction to his academic work.
+__Long Answer__: McCulloch’s friends thoughtfully describe the type of person he was in the chapters included in this repository. I recommend reading the [Introduction to Volume 1](https://github.com/ktmurray1999/warren-s-mcculloch/blob/main/volume%201/introduction_Jerome_Y_Lettvin.pdf) and [Chapter 56 of Volume 2](https://github.com/ktmurray1999/warren-s-mcculloch/blob/main/volume%202/56_Jerome_Y_Lettvin.pdf), both written by Jerome Y. Lettvin, to get a sense of how McCulloch’s friends viewed him. I also recommend reading McCulloch’s book [_Embodiments of Mind_](https://mitpress.mit.edu/9780262529617/embodiments-of-mind/) for an introduction to his academic work.
 
 ## Who was Walter Pitts?
 __Short Answer__: Pitts was McCulloch's frequent collaborator and coauthor.
@@ -22,5 +22,5 @@ McCulloch is a mysterious character who many, [including Marvin Minsky](https://
 
 # 
 <div align="center">
-<img src="https://github.com/ktmurray1999/warren-s-mcculloch/blob/main/extra/wsm_collage.png" alt="Collage of WSM photographs"></img>
+<img src="https://github.com/keith-murray/warren-s-mcculloch/blob/main/extra/wsm_collage.png" alt="Collage of WSM photographs"></img>
 </div>
